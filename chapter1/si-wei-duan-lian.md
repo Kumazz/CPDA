@@ -4,4 +4,6 @@
 ![](/assets/E5651B3B7162B02C6623FBCF5A6678C6.png)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;公式化--运算
 ![](/assets/09AC4D63E9B098DFA33959CD71122353.png)
+![](/assets/5E64A8294688723604A95084D6082A4B.png)
+![](/assets/560A594389E07B3F648AFE9934038B36.png)
 
