@@ -12,6 +12,8 @@
 ####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据战略/指导未来: 数据工具--数据体系/战略
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;积累大量的数据、模型、应用时，已经具备数据体系雏形，将数据变现
 
+![](/assets/EC2469A75FC4ED4A7301A0818F37F981.png)
+
 
 
 
