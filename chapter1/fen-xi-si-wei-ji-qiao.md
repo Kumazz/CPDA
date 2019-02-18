@@ -10,4 +10,16 @@
 ![](/assets/WX20190218-133513@2x.png)
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.指数法--统一标准法
 ![](/assets/WX20190218-134121@2x.png)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.二八法--帕累托图
+![](/assets/WX20190218-135011@2x.png)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.对比法
+![](/assets/WX20190218-135335@2x.png)
+![](/assets/WX20190218-135353@2x.png)
+###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.漏斗法
+![](/assets/WX20190218-135536@2x.png)
+
+
+
+
+
 
