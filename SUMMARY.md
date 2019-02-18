@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-  * [思维锻炼](chapter1/si-wei-duan-lian.md)
+* [数据分析结构](chapter1.md)
+  * [分析思维](chapter1/si-wei-duan-lian.md)
 
