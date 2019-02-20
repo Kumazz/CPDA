@@ -19,6 +19,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首页访客占比(网页结构)、退出率和跳出率
 ###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0x02 模型
 ![](/assets/E004C8B7ECA72C4A2AB14F69488C0030.png)
+![](/assets/167488CB17B23FF462D35EA7BD0CBF26.png)
+![](/assets/F7276B3B42766C14A8875825C7D58F85.png)
+![](/assets/AA16D6D32541B1D96CC70703F42DB1D8.png)
+
+
 
 
 
